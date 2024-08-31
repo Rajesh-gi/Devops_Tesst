@@ -1,1 +1,1 @@
-This is the first code file of feature3 testing conflict
+Dev team has midified the code according to the requirement
